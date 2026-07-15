@@ -1,0 +1,4 @@
+numpy==2.5.1
+networkx==3.6.1
+gurobipy==13.0.2
+ipykernel==7.3.0
